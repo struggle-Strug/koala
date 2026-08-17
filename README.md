@@ -98,3 +98,27 @@ https://github.com/ciyex-org/ciyex
 https://github.com/Zzocker/EHR-on-blockchain
 
 https://github.com/shamil-t/ehr-blockchain
+
+---
+
+## 医療システム（補足）
+
+https://github.com/HCW-home/backend
+
+https://github.com/ciips-code/aiotp
+
+https://github.com/openemr/openemr
+
+https://github.com/ciips-code/aiotp
+
+https://github.com/openmrs
+
+https://github.com/librehealthio/lh-ehr
+
+https://github.com/aminezouari52/telemedicine-website
+
+---
+
+## 臨床クリニックメディカルLLM
+
+https://huggingface.co/m42-health/Llama3-Med42-70B
